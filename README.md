@@ -1,6 +1,8 @@
 # React Lyric Search.
 > React Lyric Search is a simple app built on REACT JS
+
 > I using musixmatch for get 30% lyric of the song http://api.musixmatch.com
+
 > I using axios to fetch DATA from the API
 ## Quick Start:
 
